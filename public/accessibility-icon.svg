@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rocket body with accessibility circle -->
+  <path d="M256 64C176.5 64 112 128.5 112 208v144c0 79.5 64.5 144 144 144s144-64.5 144-144V208c0-79.5-64.5-144-144-144zm0 256c-61.9 0-112-50.1-112-112s50.1-112 112-112 112 50.1 112 112-50.1 112-112 112z" fill="#3B82F6"/>
+  <!-- Launch arrow -->
+  <path d="M256 128v256M256 128l48 48M256 128l-48 48" stroke="#3B82F6" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
