@@ -42,6 +42,7 @@ This project was developed in close collaboration with **ChatGPT (GPT-4)** to:
 ---
 
 ## 📁 Folder Structure
+```
 ada-launchpad/
 ├── public/
 ├── src/
@@ -50,6 +51,7 @@ ada-launchpad/
 │   └── App.tsx
 ├── README.md
 └── package.json
+```
 
 
 🤝 License
